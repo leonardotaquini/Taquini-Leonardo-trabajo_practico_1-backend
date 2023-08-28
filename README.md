@@ -7,12 +7,12 @@
 3. Ejecuta el comando (`npm i`).
 4. Crea la base de datos en MySQL.
 5. Crea un archivo `.env` con los siguientes datos:
-DB_NAME=
-DB_USER=
-DB_PASSWORD=
-DB_DIALECT=
-DB_HOST=
-PORT=
+- DB_NAME=
+- DB_USER=
+- DB_PASSWORD=
+- DB_DIALECT=
+- DB_HOST=
+- PORT=
 6. Ejecuta (`npm run dev`)
 
     
